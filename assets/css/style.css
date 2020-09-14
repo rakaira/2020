@@ -81,8 +81,5 @@ section#headline h5.year{
 
 /* ukuran hp */
 @media screen and (max-width:800px){
-  section#headline img.hero{
-   display:none; 
-  }
 
 }
