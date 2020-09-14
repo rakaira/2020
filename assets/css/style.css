@@ -78,3 +78,11 @@ section#headline h5.year{
   bottom: 0px;
 }
 /* akhir jumbotron */
+
+/* ukuran hp */
+@media screen and (max-width:800px){
+  section#headline img.hero{
+   display:none; 
+  }
+
+}
